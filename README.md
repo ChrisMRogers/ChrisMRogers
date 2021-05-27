@@ -5,7 +5,7 @@
 I have a passion for web development and love creating fun and silly projects for myself and my friends to use!</p>
 <p align='left'>I am experienced in Vue.js and have recently been teaching myself React for the creation of my personal website as well as a web application called Putter. Putter allows users to find groups of people wanting to play sports based on location, and also allows for the booking of court or tee times if applicable. </p>
 <p align='left'> You can view my resume <a href='https://www.chrisrogers.dev ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
+### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ChrisMRogers alt=ChrisMRogers /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ChrisMRogers&show_icons=true&include_all_commits=true)](https://github.com/ChrisMRogers/github-readme-stats)
